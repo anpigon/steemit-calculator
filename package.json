@@ -1,0 +1,14 @@
+{
+  "name": "steemit-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anpigon/steemit-calculator.git",
+  "author": "anpigon <markan82@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
